@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5aaec7b3-ca9a-43c4-b101-a4562e1aa701" name="Default Changelist" comment="" />
+    <list default="true" id="5aaec7b3-ca9a-43c4-b101-a4562e1aa701" name="Default Changelist" comment="add(基础配置): 添加无框架项目的基础配置">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/webpack.common.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/webpack.common.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vCAghFB7qFtkdYZerepc4wWbuv" />
@@ -39,17 +48,49 @@
       <option name="presentableId" value="Default" />
       <updated>1626055809883</updated>
       <workItem from="1626055810946" duration="4465000" />
-      <workItem from="1626080186420" duration="3098000" />
+      <workItem from="1626080186420" duration="6025000" />
     </task>
+    <task id="LOCAL-00001" summary="add(基础配置): 添加无框架项目的基础配置">
+      <created>1626145726969</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626145726969</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add(基础配置): 添加无框架项目的基础配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="add(基础配置): 添加无框架项目的基础配置" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="747" y="301" key="FileChooserDialogImpl" timestamp="1626055962822">
+    <state x="747" y="301" key="FileChooserDialogImpl" timestamp="1626145421183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="747" y="301" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1626055962822" />
+    <state x="747" y="301" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1626145421183" />
+    <state x="597" y="240" key="Vcs.Push.Dialog.v2" timestamp="1626145730022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="597" y="240" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1626145730022" />
+    <state x="829" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1626145522883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="829" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1626145522883" />
+    <state x="796" y="423" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1626145535477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="796" y="423" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1626145535477" />
+    <state x="788" y="410" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1626145511458">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="788" y="410" key="git4idea.remote.GitConfigureRemotesDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1626145511458" />
+    <state x="668" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1626146084376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="229" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1626146084376" />
   </component>
 </project>
