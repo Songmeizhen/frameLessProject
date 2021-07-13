@@ -1,0 +1,31 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "official website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "serve": "cross-env NODE_ENV=development webpack-dev-server --config config/webpack.dev.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.14.7",
+    "babel-loader": "^8.2.2",
+    "cross-env": "^7.0.3",
+    "css-loader": "^5.2.6",
+    "purify-css": "^1.2.5",
+    "purifycss-webpack": "^0.7.0",
+    "style-loader": "^3.0.0",
+    "url-loader": "^4.1.1",
+    "webpack-dev-server": "^3.11.2",
+    "webpack-merge": "^5.8.0"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "node-sass": "^6.0.1",
+    "sass-loader": "^12.1.0"
+  }
+}
