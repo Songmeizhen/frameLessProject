@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5aaec7b3-ca9a-43c4-b101-a4562e1aa701" name="Default Changelist" comment="add(基础配置): 添加无框架项目的基础配置">
+    <list default="true" id="5aaec7b3-ca9a-43c4-b101-a4562e1aa701" name="Default Changelist" comment="add(公共配置): 增加公共配置">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/webpack.common.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/webpack.common.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/webpack.prod.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/webpack.prod.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626055809883</updated>
       <workItem from="1626055810946" duration="4465000" />
-      <workItem from="1626080186420" duration="6025000" />
+      <workItem from="1626080186420" duration="7363000" />
     </task>
     <task id="LOCAL-00001" summary="add(基础配置): 添加无框架项目的基础配置">
       <created>1626145726969</created>
@@ -57,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626145726969</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add(公共配置): 增加公共配置">
+      <created>1626157840844</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626157840844</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,17 +72,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add(基础配置): 添加无框架项目的基础配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="add(基础配置): 添加无框架项目的基础配置" />
+    <MESSAGE value="add(公共配置): 增加公共配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="add(公共配置): 增加公共配置" />
   </component>
   <component name="WindowStateProjectService">
     <state x="747" y="301" key="FileChooserDialogImpl" timestamp="1626145421183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="747" y="301" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1626145421183" />
-    <state x="597" y="240" key="Vcs.Push.Dialog.v2" timestamp="1626145730022">
+    <state x="597" y="240" key="Vcs.Push.Dialog.v2" timestamp="1626157843798">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="597" y="240" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1626145730022" />
+    <state x="597" y="240" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1626157843798" />
     <state x="829" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1626145522883">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
